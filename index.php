@@ -8,5 +8,10 @@ class Alumno extends Persona{
 }
 
 class profesor {
+
+}
+
+
+class materia {
     
 }
