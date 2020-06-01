@@ -1,6 +1,7 @@
 <?php
 
 $handler = grant;
+$pesos = 200;
 
 require_once 'Persona.php';
 class Alumno extends Persona{
@@ -18,5 +19,5 @@ class materia {
 
 
 class institucion {
-    
+
 }
