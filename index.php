@@ -15,3 +15,8 @@ class profesor {
 class materia {
     
 }
+
+
+class institucion {
+    
+}
